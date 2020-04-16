@@ -40,3 +40,14 @@ D:\A стафф\C#\schools\schools\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.p
 D:\A стафф\C#\schools\schools\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
 D:\A стафф\C#\schools\schools\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
 D:\A стафф\C#\schools\schools\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\User\Desktop\Cmoon\newSchools\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\User\Desktop\Cmoon\newSchools\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\User\Desktop\Cmoon\newSchools\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\User\Desktop\Cmoon\newSchools\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Cmoon\newSchools\WindowsFormsApp3\obj\Debug\WindowsFormsApp1.loginForm.resources
+C:\Users\User\Desktop\Cmoon\newSchools\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\User\Desktop\Cmoon\newSchools\WindowsFormsApp3\obj\Debug\WindowsFormsApp1.teach.resources
+C:\Users\User\Desktop\Cmoon\newSchools\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Cmoon\newSchools\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Cmoon\newSchools\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\User\Desktop\Cmoon\newSchools\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
