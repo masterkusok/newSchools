@@ -74,7 +74,7 @@ namespace WindowsFormsApp1
                 student = "2";
             }
 
-            using (StreamWriter FW = new StreamWriter("/Users/database.txt"))
+            using (StreamWriter FW = new StreamWriter("Users/database.txt"))
             {
                 FW.WriteLine(login.Text);
                 FW.WriteLine(pasword.Text);
