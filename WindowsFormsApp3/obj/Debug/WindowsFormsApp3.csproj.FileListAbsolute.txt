@@ -1,0 +1,42 @@
+C:\Users\Zeref\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp1.loginForm.resources
+C:\Users\Zeref\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Zeref\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Zeref\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Zeref\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp1.teach.resources
+C:\Users\Zeref\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Zeref\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Zeref\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Zeref\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Zeref\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\User\Desktop\Новая папка (2)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Новая папка (2)\WindowsFormsApp3\obj\Debug\WindowsFormsApp1.loginForm.resources
+C:\Users\User\Desktop\Новая папка (2)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\User\Desktop\Новая папка (2)\WindowsFormsApp3\obj\Debug\WindowsFormsApp1.teach.resources
+C:\Users\User\Desktop\Новая папка (2)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Новая папка (2)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка (2)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\User\Desktop\Новая папка (2)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\User\Desktop\Новая папка (2)\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\User\Desktop\Новая папка (2)\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\User\Desktop\Новая папка (2)\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\User\Desktop\проеект\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\User\Desktop\проеект\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\User\Desktop\проеект\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\User\Desktop\проеект\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\проеект\WindowsFormsApp3\obj\Debug\WindowsFormsApp1.loginForm.resources
+C:\Users\User\Desktop\проеект\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\User\Desktop\проеект\WindowsFormsApp3\obj\Debug\WindowsFormsApp1.teach.resources
+C:\Users\User\Desktop\проеект\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\проеект\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\проеект\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\User\Desktop\проеект\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\A стафф\C#\schools\schools\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+D:\A стафф\C#\schools\schools\WindowsFormsApp3\obj\Debug\WindowsFormsApp1.loginForm.resources
+D:\A стафф\C#\schools\schools\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\A стафф\C#\schools\schools\WindowsFormsApp3\obj\Debug\WindowsFormsApp1.teach.resources
+D:\A стафф\C#\schools\schools\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\A стафф\C#\schools\schools\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\A стафф\C#\schools\schools\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\A стафф\C#\schools\schools\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\A стафф\C#\schools\schools\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\A стафф\C#\schools\schools\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
