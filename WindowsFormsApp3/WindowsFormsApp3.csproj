@@ -58,11 +58,23 @@
     <Compile Include="Form_diary.Designer.cs">
       <DependentUpon>Form_diary.cs</DependentUpon>
     </Compile>
+    <Compile Include="Form_myschool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_myschool.Designer.cs">
+      <DependentUpon>Form_myschool.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form_profile.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form_profile.Designer.cs">
       <DependentUpon>Form_profile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_timetable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_timetable.Designer.cs">
+      <DependentUpon>Form_timetable.cs</DependentUpon>
     </Compile>
     <Compile Include="loginForm.cs">
       <SubType>Form</SubType>
@@ -87,8 +99,14 @@
     <EmbeddedResource Include="Form_diary.resx">
       <DependentUpon>Form_diary.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Form_myschool.resx">
+      <DependentUpon>Form_myschool.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form_profile.resx">
       <DependentUpon>Form_profile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_timetable.resx">
+      <DependentUpon>Form_timetable.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="loginForm.resx">
       <DependentUpon>loginForm.cs</DependentUpon>

@@ -7,6 +7,6 @@ gamemaster
 Stud
 321
 2
-New
+New
 12345
 2

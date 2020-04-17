@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using WindowsFormsApp3;
 
 namespace WindowsFormsApp1
 {
@@ -44,6 +45,22 @@ namespace WindowsFormsApp1
         {
             loginForm lf = new loginForm();
             lf.Show();
+            this.Hide();
+            this.Close();
+        }
+
+        private void bmyschool_Click(object sender, EventArgs e)
+        {
+            Form_myschool my = new Form_myschool(loginlogin);
+            my.Show();
+            this.Hide();
+            this.Close();
+        }
+
+        private void btimetable_Click(object sender, EventArgs e)
+        {
+            Form_timetable ft = new Form_timetable(loginlogin);
+            ft.Show();
             this.Hide();
             this.Close();
         }

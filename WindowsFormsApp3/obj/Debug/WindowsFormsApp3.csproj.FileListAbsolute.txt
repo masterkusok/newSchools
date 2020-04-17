@@ -63,3 +63,6 @@ D:\A стафф\C#\newSchools\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
 D:\A стафф\C#\newSchools\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
 D:\A стафф\C#\newSchools\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
 D:\A стафф\C#\newSchools\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\A стафф\C#\newSchools\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+D:\A стафф\C#\newSchools\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form_myschool.resources
+D:\A стафф\C#\newSchools\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form_timetable.resources

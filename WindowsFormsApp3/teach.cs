@@ -91,17 +91,19 @@ namespace WindowsFormsApp1
             {
                 student = "2";
             }
-            
-            File.AppendAllText("Users/database.txt", "\r"+ login.Text + "\r\n");
+        
+            File.AppendAllText("Users/database.txt", login.Text + "\r\n");
             File.AppendAllText("Users/database.txt", pasword.Text + "\r\n");
             File.AppendAllText("Users/database.txt", student + "\r\n");
+
             using (StreamWriter FW = new StreamWriter("Users/students/" + login.Text + ".txt"))
-//>>>>>>> f9b311fc8a11fa806db3e6b1aeb1324df8c79b90
+
             {
                 FW.WriteLine(name.Text);
                 FW.WriteLine(family.Text);
                 FW.WriteLine(otchestvo.Text);
                 FW.WriteLine(class_num.Text + class_let.Text);
+                FW.Close();
             }
         }
 

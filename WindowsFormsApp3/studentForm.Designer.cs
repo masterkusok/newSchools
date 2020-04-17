@@ -74,6 +74,7 @@
             this.bmyschool.TabIndex = 3;
             this.bmyschool.Text = "моя школа";
             this.bmyschool.UseVisualStyleBackColor = true;
+            this.bmyschool.Click += new System.EventHandler(this.bmyschool_Click);
             // 
             // btimetable
             // 
@@ -83,6 +84,7 @@
             this.btimetable.TabIndex = 4;
             this.btimetable.Text = "Рассписание";
             this.btimetable.UseVisualStyleBackColor = true;
+            this.btimetable.Click += new System.EventHandler(this.btimetable_Click);
             // 
             // bexit
             // 
