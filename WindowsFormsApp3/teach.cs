@@ -29,6 +29,15 @@ namespace WindowsFormsApp1
             pasword_label.Show();
             radioButton1.Show();
             create_final.Show();
+            name.Show();
+            family.Show();
+            otchestvo.Show();
+            class_let.Show();
+            class_num.Show();
+            label2.Show();
+            label3.Show();
+            label4.Show();
+            label5.Show();
         }
 
         private void login_label_Click(object sender, EventArgs e)
@@ -59,6 +68,15 @@ namespace WindowsFormsApp1
             pasword.Hide();
             radioButton1.Hide();
             create_final.Hide();
+            name.Hide();
+            family.Hide();
+            otchestvo.Hide();
+            class_let.Hide();
+            class_num.Hide();
+            label2.Hide();
+            label3.Hide();
+            label4.Hide();
+            label5.Hide();
         }
 
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
@@ -73,13 +91,26 @@ namespace WindowsFormsApp1
             {
                 student = "2";
             }
-
-            using (StreamWriter FW = new StreamWriter("Users/database.txt"))
+            
+            File.AppendAllText("Users/database.txt", "\r"+ login.Text + "\r\n");
+            File.AppendAllText("Users/database.txt", pasword.Text + "\r\n");
+            File.AppendAllText("Users/database.txt", student + "\r\n");
+            using (StreamWriter FW = new StreamWriter("Users/students/" + login.Text + ".txt"))
+//>>>>>>> f9b311fc8a11fa806db3e6b1aeb1324df8c79b90
             {
-                FW.WriteLine(login.Text);
-                FW.WriteLine(pasword.Text);
-                FW.WriteLine(student);
+                FW.WriteLine(name.Text);
+                FW.WriteLine(family.Text);
+                FW.WriteLine(otchestvo.Text);
+                FW.WriteLine(class_num.Text + class_let.Text);
             }
+        }
+
+        private void leaveBtn_Click(object sender, EventArgs e)
+        {
+            loginForm lf = new loginForm();
+            lf.Show();
+            this.Hide();
+            this.Close();
         }
     }
 }

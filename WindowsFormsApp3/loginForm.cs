@@ -30,48 +30,38 @@ namespace WindowsFormsApp1
             bool teacher = false, student = false;
             using (StreamReader database = new StreamReader("Users/database.txt"))
             {
-                if (login == database.ReadLine() && password == database.ReadLine())
+                for (; !database.EndOfStream;)
                 {
-                    // 1 - пользователь учитель
-                    if (database.ReadLine() == "1")
+                    if (login == database.ReadLine() && password == database.ReadLine())
                     {
-                        teacher = true;
-                        student = false;
+                        // 1 - пользователь учитель
+                        if (database.ReadLine() == "1")
+                        {
+                            teach tf = new teach(login);
+                            tf.ShowDialog();
+                            this.Hide();
+                            break;
+                        }
+                        // 2 - пользователь ученик
+                        else
+                        {
+                            studentForm sf = new studentForm(login);
+                            sf.ShowDialog();
+                            this.Hide();
+                            break;
+                        }
                     }
-                    // 2 - пользователь ученик
-                    else
-                    {
-                        student = true;
-                        teacher = false;
-                    }
-                }
 
-                else
-                {
-                    if (database.EndOfStream)
-                    {
-                        MessageBox.Show("Error");
-                    }
                     else
                     {
                         database.ReadLine();
+                        if (database.EndOfStream)
+                        {
+                            MessageBox.Show("Error");
+                        }
                     }
                 }
                 database.Close();
-            }
-
-            if (teacher)
-            {
-                teach tf = new teach(login);
-                tf.ShowDialog();
-                this.Hide();
-
-            }
-            else
-            {
-                //studentForm sf = new studentForm(login);
-                //sf.ShowDialog();
-                //this.Hide();
             }
 
         }
