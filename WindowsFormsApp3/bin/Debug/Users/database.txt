@@ -10,3 +10,12 @@ Stud
 New
 12345
 2
+newStud
+123456
+2
+123
+232
+2
+aaa
+bbb
+2

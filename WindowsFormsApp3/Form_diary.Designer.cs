@@ -385,7 +385,7 @@
             this.backBtn.TabIndex = 2;
             this.backBtn.Text = "назад";
             this.backBtn.UseVisualStyleBackColor = true;
-           // this.backBtn.Click += new System.EventHandler(this.button1_Click);
+            this.backBtn.Click += new System.EventHandler(this.backBtn_Click_1);
             // 
             // Form_diary
             // 

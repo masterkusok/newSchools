@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
+using WindowsFormsApp1;
 
 namespace WindowsFormsApp1
 {
@@ -91,10 +92,6 @@ namespace WindowsFormsApp1
             {
                 student = "2";
             }
-        
-            File.AppendAllText("Users/database.txt", login.Text + "\r\n");
-            File.AppendAllText("Users/database.txt", pasword.Text + "\r\n");
-            File.AppendAllText("Users/database.txt", student + "\r\n");
 
             using (StreamWriter FW = new StreamWriter("Users/students/" + login.Text + ".txt"))
 
@@ -105,6 +102,10 @@ namespace WindowsFormsApp1
                 FW.WriteLine(class_num.Text + class_let.Text);
                 FW.Close();
             }
+
+            File.AppendAllText("Users/database.txt", login.Text + "\r\n");
+            File.AppendAllText("Users/database.txt", pasword.Text + "\r\n");
+            File.AppendAllText("Users/database.txt", student + "\r\n");
         }
 
         private void leaveBtn_Click(object sender, EventArgs e)

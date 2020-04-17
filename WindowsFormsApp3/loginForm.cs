@@ -37,6 +37,7 @@ namespace WindowsFormsApp1
                         // 1 - пользователь учитель
                         if (database.ReadLine() == "1")
                         {
+                            database.Close();
                             teach tf = new teach(login);
                             tf.ShowDialog();
                             this.Hide();
@@ -45,6 +46,7 @@ namespace WindowsFormsApp1
                         // 2 - пользователь ученик
                         else
                         {
+                            database.Close();
                             studentForm sf = new studentForm(login);
                             sf.ShowDialog();
                             this.Hide();
@@ -63,7 +65,6 @@ namespace WindowsFormsApp1
                 }
                 database.Close();
             }
-
         }
     }
 }
