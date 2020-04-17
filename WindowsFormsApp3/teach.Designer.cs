@@ -61,7 +61,7 @@
             // create_but
             // 
             this.create_but.Location = new System.Drawing.Point(331, 486);
-            this.create_but.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.create_but.Margin = new System.Windows.Forms.Padding(4);
             this.create_but.Name = "create_but";
             this.create_but.Size = new System.Drawing.Size(425, 53);
             this.create_but.TabIndex = 1;
@@ -72,7 +72,7 @@
             // login
             // 
             this.login.Location = new System.Drawing.Point(81, 53);
-            this.login.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.login.Margin = new System.Windows.Forms.Padding(4);
             this.login.Name = "login";
             this.login.Size = new System.Drawing.Size(248, 22);
             this.login.TabIndex = 2;
@@ -81,7 +81,7 @@
             // pasword
             // 
             this.pasword.Location = new System.Drawing.Point(81, 101);
-            this.pasword.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pasword.Margin = new System.Windows.Forms.Padding(4);
             this.pasword.Name = "pasword";
             this.pasword.Size = new System.Drawing.Size(248, 22);
             this.pasword.TabIndex = 3;
@@ -113,7 +113,7 @@
             // 
             this.radioButton1.AutoSize = true;
             this.radioButton1.Location = new System.Drawing.Point(81, 359);
-            this.radioButton1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.radioButton1.Margin = new System.Windows.Forms.Padding(4);
             this.radioButton1.Name = "radioButton1";
             this.radioButton1.Size = new System.Drawing.Size(231, 21);
             this.radioButton1.TabIndex = 6;
@@ -125,7 +125,7 @@
             // create_final
             // 
             this.create_final.Location = new System.Drawing.Point(331, 421);
-            this.create_final.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.create_final.Margin = new System.Windows.Forms.Padding(4);
             this.create_final.Name = "create_final";
             this.create_final.Size = new System.Drawing.Size(424, 58);
             this.create_final.TabIndex = 7;
@@ -146,7 +146,7 @@
             // name
             // 
             this.name.Location = new System.Drawing.Point(81, 149);
-            this.name.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.name.Margin = new System.Windows.Forms.Padding(4);
             this.name.Name = "name";
             this.name.Size = new System.Drawing.Size(248, 22);
             this.name.TabIndex = 9;
@@ -164,7 +164,7 @@
             // family
             // 
             this.family.Location = new System.Drawing.Point(81, 197);
-            this.family.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.family.Margin = new System.Windows.Forms.Padding(4);
             this.family.Name = "family";
             this.family.Size = new System.Drawing.Size(248, 22);
             this.family.TabIndex = 11;
@@ -182,7 +182,7 @@
             // otchestvo
             // 
             this.otchestvo.Location = new System.Drawing.Point(81, 245);
-            this.otchestvo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.otchestvo.Margin = new System.Windows.Forms.Padding(4);
             this.otchestvo.Name = "otchestvo";
             this.otchestvo.Size = new System.Drawing.Size(248, 22);
             this.otchestvo.TabIndex = 13;
@@ -204,16 +204,9 @@
             "1",
             "2",
             "3",
-            "4",
-            "5",
-            "6",
-            "7",
-            "8",
-            "9",
-            "10",
-            "11"});
+            "4"});
             this.class_num.Location = new System.Drawing.Point(81, 293);
-            this.class_num.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.class_num.Margin = new System.Windows.Forms.Padding(4);
             this.class_num.Name = "class_num";
             this.class_num.Size = new System.Drawing.Size(248, 24);
             this.class_num.TabIndex = 15;
@@ -223,11 +216,9 @@
             this.class_let.FormattingEnabled = true;
             this.class_let.Items.AddRange(new object[] {
             "А",
-            "Б",
-            "В",
-            "Г"});
+            "Б"});
             this.class_let.Location = new System.Drawing.Point(81, 326);
-            this.class_let.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.class_let.Margin = new System.Windows.Forms.Padding(4);
             this.class_let.Name = "class_let";
             this.class_let.Size = new System.Drawing.Size(248, 24);
             this.class_let.TabIndex = 16;
@@ -265,7 +256,7 @@
             this.Controls.Add(this.login);
             this.Controls.Add(this.create_but);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "teach";
             this.Text = "teach";
             this.Load += new System.EventHandler(this.teach_Load);

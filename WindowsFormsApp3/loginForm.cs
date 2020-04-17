@@ -66,5 +66,10 @@ namespace WindowsFormsApp1
                 database.Close();
             }
         }
+
+        private void passwordField_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
